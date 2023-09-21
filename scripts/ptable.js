@@ -1,1 +1,1 @@
-document.write('<p>Hello world!</p>');
+document.write('<p>Testing my Git knowledge!</p>');
